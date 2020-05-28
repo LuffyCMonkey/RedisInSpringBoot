@@ -22,3 +22,6 @@ The following guides illustrate how to use some features concretely:
 
 ## 실행은 Juint5 src/test/...파일 실행 후 Console 창 확인 
 
+# Program List 
+  -> Redis-x64-4.0.14.1_windows 
+  -> URL: https://dev.mysql.com/downloads/workbench/ 
